@@ -7,7 +7,7 @@ import math
 import bs4
 from io import StringIO
 
-wikimapia_key    = "16CAC546-550ECDFE-75C26117-8EFBD921-83589EC1-B8E3B14F-42BCC68C-7772CB76"
+wikimapia_key    = "ENTER YOUR KEY HERE"
 search_name      = "Kaliningrad"   
 southwest_corner = "54.70482789595641,20.437042240519077"
 northeast_corner = "54.71871128341134,20.46794128837064"
